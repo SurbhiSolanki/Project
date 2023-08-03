@@ -14,14 +14,14 @@
             <h1>Surbhi Solanki</h1>
             <p>Contact: <a href="abcd.com">surbhi1543@gmail.com</a> </p>
             <p>LinkedIn: <a href="abcd.com">https://shorturl.at/nwQY9</a> </p>
-            <p>GitHub: <a href="abcd.com"></a> </p>
+            <p>GitHub: <a href="abcd.com">https://github.com/SurbhiSolanki</a> </p>
 
         </div>
 
         <table>
             <tr>
                 <td>
-                   <img src="profile.jpg" alt="LoveBabbarPic"> 
+                   <img src="profile.jpg" alt="SurbhiSolankiPic"> 
                 </td>
                 <td>
                     I am a passionate software engineer with expertise in problem-solving and algorithmic thinking. I love to explore various technologies and frameworks to develop efficient and scalable solutions. With a strong foundation in data structures and algorithms, I strive to create robust and optimized code. I am constantly expanding my skills and staying up-to-date with the latest advancements in the field of software development. 
@@ -33,9 +33,9 @@
             <h2>Education</h2>
 
             <ul>
-                <li>Bachelor of Technology in Information Technology, Netaji Subhas Institute of Technology
+                <li>Bachelor of Technology in Mechanical, University Institute of Technology
                 </li>
-                <li>A.E.S N.T Rama Rao Memorial Senior Secondary School
+                <li>Kendriya Vidalaya No.1 Ordnance Factory Itarsi.
                 </li>
             </ul>
 
@@ -46,13 +46,13 @@
 
             <div>
                 <h3>
-                    Software Engineer, Microsoft
+                    Software developer
                 </h3>
 
                 <p>Nov 2021 - May 2022</p>
                 <ul>
                     <li>
-                        Developed and maintained web applications using HTML, CSS, and JavaScript
+                        Developed and maintained websites using HTML, CSS.
 
                     </li>
                     <li>Collaborated with cross-functional teams to design and implement software solutions
@@ -60,25 +60,7 @@
                     <li>Optimized code performance and improved application efficiency
                     </li>
                 </ul>
-            </div>
-
-            <div>
-                <h3>
-                    Software Development Engineer, Amazon
-                </h3>
-                <p>
-                    July 2019 - October 2021
-                </p>
-                <ul>
-                    <li>
-                        Assisted in developing and testing software modules
-                    </li>
-                    <li>Worked on bug fixing and performance enhancement tasks
-                    </li>
-                </ul>
-            </div>
-
-
+         
 
 
         </section>
@@ -89,26 +71,17 @@
             </h2>
 
             <ul>
-                <li>Java</li>
+             
                 <li>C++</li>
                 <li>Python</li>
                 <li>HTML</li>
                 <li>CSS</li>
-                <li>JS</li>
-                <li>SQL</li>
+              
             </ul>
 
         </section>
 
-        <section>
-            <h2>Achievements</h2>
-
-            <ul>
-                <li>Service Selection Board(Recommendation letter for Officer entry in Indian Army)
-                </li>
-                <li>Published an article on data structures in a renowned tech magazine
-                </li>
-            </ul>
+       
 
         </section>
 
@@ -118,10 +91,10 @@
             <ul>
                 <li>
                     <h3>Library Management System</h3>
-                    <p>Library Management Application – developed a desktop application by using java swing and MYSQL server.
+                    <p>Library Management Application – developed a console application by using C++.
                     </p>
                     <p>Hosted Link: <a href="abcd.com">example.com/ecommerce</a> </p>
-                    <p>GitHub Link: <a href="abcd.com">github.com/lovebabbar/ecommerce</a> </p>
+                    <p>GitHub Link: <a href="abcd.com">github.com/surbhisolanki/ecommerce</a> </p>
                 </li>
                 <li>
                     <h3>
@@ -202,7 +175,7 @@
         </section>
 
         <footer>
-            <p>&#169; 2023 Love Babbar. All rights reserved.</p>
+            <p>&#169; 2023 Surbhi Solanki. All rights reserved.</p>
         </footer>
 
     </div>
